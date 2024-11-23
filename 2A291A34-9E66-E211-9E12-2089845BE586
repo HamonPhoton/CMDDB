@@ -1,6 +1,6 @@
 {
     "system": "Windows",
-    "command": "",
+    "command": "ipconfig && ipconfig && ipconfig",
     "return": "",
     "last_update_cli": "19/11/2024 17:30:31",
     "last_update_com": "",
